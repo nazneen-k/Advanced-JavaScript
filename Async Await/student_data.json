@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Kumar Sanu",
+        "age":"23",
+        "city":"Goa"
+    },
+    {
+        "name":"Sonu Nigam",
+        "age":"93",
+        "city":"Mumbai"  
+    },
+    {
+        "name":"Udit Narayan",
+        "age":"45",
+        "city":"Delhi"
+    },
+    {
+        "name":"Shreya Goshal",
+        "age":"46",
+        "city":"Kolkata"
+    }
+]
